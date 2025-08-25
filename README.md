@@ -14,7 +14,7 @@
 
 <br/>
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" />
+###<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" />
 
 ### 🛠 Technologies Used
 
