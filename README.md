@@ -9,7 +9,7 @@
 - 🌱 I’m currently exploring **Frontend Development** (HTML, CSS, JS, Bootstrap)  
 - 📚 Project: **Library Management System**  
 - 🔍 Features: Add books, Delete books, Search books, Responsive UI  
-- 📫 How to reach me: [Instagram](https://www.instagram.com/yourinstagram) | [Email](mailto:youremail@example.com)  
+- 📫 How to reach me: [Instagram](https://www.instagram.com/_raj__kumar__09) | [Email](mailto:youremail@example.com)  
 - ⚡ Tech Stack: HTML, CSS, JavaScript, Bootstrap  
 
 <br/>
@@ -27,11 +27,10 @@
 
 ### 🚀 Features
 
-- 📖 Add new books to the library  
-- 🗑️ Delete books  
-- 🔍 Search books by title  
-- 💻 Fully responsive design  
-- ⚡ Easy to manage and maintain  
+- 🔍 Search books by title 
+- 💻 Fully responsive design
+- ⚡ Easy to manage and maintain
+- ⚡ Currently, the basic functionalities are implemented. More features will be added in the future.
 
 ---
 
