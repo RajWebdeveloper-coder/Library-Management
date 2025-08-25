@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Library+Management!;Manage+Books+Easily+with+Frontend+Tech&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=CCCome+to+Library+Organizer!;Manage+Books+Easily+with+Frontend+Tech&center=true&size=30">
   </a>
 </h1>
 
@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently exploring **Frontend Development** (HTML, CSS, JS, Bootstrap)  
 - 📚 Project: **Library Management System**  
-- 🔍 Features: Add books, Delete books, Search books, Responsive UI  
+- 🔍 Features: Search books, Responsive UI  
 - 📫 How to reach me: [Instagram](https://www.instagram.com/_raj__kumar__09) | [Email](mailto:youremail@example.com)  
 - ⚡ Tech Stack: HTML, CSS, JavaScript, Bootstrap  
 
