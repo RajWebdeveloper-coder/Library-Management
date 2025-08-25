@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+body {
+    font-family: Roboto;
+    height: 100%;
+    margin: 0;
+}
+
+#bgContainer {
+    background-image: url('https://images.unsplash.com/photo-1529156069898-49953e39b3ac');
+    /* Library shelves */
+    background-size: cover;
+    background-position: center;
+}
+
+.heading {
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+}
+
+#searchInput {
+    max-width: 400px;
+    margin: 20px auto;
+}
+
+.image-container {
+    position: relative;
+    width: 100%;
+    padding-top: 133%;
+    /* 4:3 ratio -> (height/width*100) */
+    overflow: hidden;
+}
+
+.books-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 8px;
+}
