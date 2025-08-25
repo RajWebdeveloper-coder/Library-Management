@@ -38,6 +38,6 @@
 ### 🔗 Links
 
 - GitHub: [github.com/yourusername](https://github.com/RajWebdeveloper-coder)  
-- Instagram: [instagram.com/yourusername](https://instagram.com/__raj__kumar__09)  
-- Email: [youremail@example.com](mailto:youremail@example.com)
+- Instagram: [instagram.com/yourusername](https://instagram.com/_raj__kumar__09)  
+- Email: [youremail@example.com](mailto:rajkumar.webdevelop@gmail.com)
 
